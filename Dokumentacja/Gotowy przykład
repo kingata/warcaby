@@ -1,0 +1,10 @@
+Tutaj znajduję się gotowa gra w warcaby http://algorytmy.info/KodKontroler/kod/670/ 
+Trzeba pobrać „Warcaby gra” tutaj jest sama gra, która faktycznie działa, wypróbowałam :P 
+W „Warcaby 1.1 kos źródłowy” jest cały kod, headery, main wszystko. 
+- gra człowiek-człowiek
+- dodatkowe opcje: zapisz grę, wczytaj grę
+- po wyborze pionka podświetlają się na zielono pola, na które można przejść
+
+Tutaj znalazłam bardzo dużo teorii o pisaniu takiego programu
+- http://sequoia.iiar.pwr.wroc.pl/~witold/aiarr/2009_projekty/warcaby/
+- http://www.zpcir.ict.pwr.wroc.pl/~witold/aiarr/2006_projekty/warcaby3/
