@@ -1,0 +1,33 @@
+RAPORTY:
+
+2017-05-10 - Dzień 1
+[MA]
+[AD]
+[FG]
+[KT]
+
+2017-05-11 - Dzień 2
+[MA]
+[AD]
+[FG]
+[KT]
+
+2017-05-12 - Dzień 3
+[MA]
+[AD]
+[FG]
+[KT]
+
+2017-05-13 - Dzień 4
+{DZIEŃ WOLNY}
+[MA] Przygotowano strukturę raportów.
+[AD]
+[FG]
+[KT]
+
+2017-05-14 - Dzień 5
+{DZIEŃ WOLNY}
+[MA]
+[AD]
+[FG]
+[KT]
