@@ -10,7 +10,7 @@
 [MA]
 [AD]- (16.00-17.30) – Dzisiaj zgodnie z powierzonymi mi zadaniami zajęłam się przygotowywaniem wiadomości dotyczących tworzenia grafiki do gier w języku C++. Wiadomości przeze mnie zdobyte zapisałam w pliku „Grafika research.docx”. Problemy pojawiły się podczas obsługi GIT-a. Tak więc na kolejny dzień zaplanowałam naukę korzystania z tego systemu kontroli wersji.
 [FG]
-[KT]
+[KT]- Przygotowałam plik "Gotowe przykłady", który zawiera pomocne artykuły oraz strone na której mozemy znaleźc napisany juz gotowy program "Warcaby" wraz z pełnym kodem.
 
 2017-05-12 - Dzień 3
 [MA]
@@ -19,7 +19,7 @@ https://git-scm.com/book/pl/v1/Pierwsze-kroki-Podstawy-Git
 https://www.youtube.com/watch?v=LYOXC6DsCiU
 
 [FG]
-[KT]
+[KT]- Instalacja, nauka korzystania z GIT-a. 
 
 2017-05-13 - Dzień 4
 {DZIEŃ WOLNY}
